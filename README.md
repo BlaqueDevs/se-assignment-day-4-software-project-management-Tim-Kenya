@@ -69,9 +69,51 @@ Why is WBS Useful?
 - Helps estimate time & cost accurately.
 - Ensures no critical task is overlooked.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits of a Detailed Project Schedule:
+- Ensures timely completion by setting deadlines.
+- Helps track progress and identify delays early.
+- Improves resource management by allocating tasks efficiently.
+- Enhances team coordination with clear timelines.
+
+How Gantt Charts Help
+- Visual timeline for tasks and milestones.
+- Shows dependencies between tasks.
+- Helps adjust schedules when delays occur.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core Issues My Software Aims to Address
+For the AI-powered bank fraud detection system, the software will:
+- Detect fraudulent transactions – Prevents unauthorized transfers and payments.
+- Identify account takeovers – Flags suspicious login attempts and unusual activity.
+- Reduce false positives – Ensures legitimate transactions aren't blocked unnecessarily.
+- Enhance real-time monitoring – Provides instant fraud alerts for quick action.
+
+Why These Problems Matter
+- Protects customers from financial loss due to fraud.
+- Improves trust in banking systems by enhancing security.
+- Reduces bank liabilities by minimizing fraud-related losses.
+- Enhances compliance with regulatory fraud prevention requirements. 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+How Clearly Defining the Problem Helps:
+- Focuses development efforts on solving the right issues.
+- Ensures better feature design by addressing specific user needs.
+- Reduces wasted time & resources by avoiding unnecessary functionality.
+- Improves model accuracy in AI-driven fraud detection by targeting key fraud patterns.
+- Enhances stakeholder alignment by setting clear goals and expectations.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+AI-Powered Bank Fraud Detection Solution
+Our software is an intelligent fraud detection system that analyzes banking transactions and user activity in real time to identify and prevent fraudulent activities. It helps banks and customers stay protected by detecting suspicious behavior, blocking fraudulent transactions, and alerting users instantly—ensuring secure and seamless banking experiences. 🚀
 ## 11. What are the main features or functionalities that make your software stand out?
+Key Features That Make Our AI-Powered Fraud Detection Stand Out:
+- Real-Time Fraud Detection – Instantly flags suspicious transactions and activities.
+- AI & Machine Learning Models – Continuously learns fraud patterns for better accuracy.
+- Account Takeover Protection – Detects unusual login behaviors and unauthorized access.
+- Adaptive Risk Scoring – Assigns risk levels to transactions based on user behavior.
+- Multi-Factor Authentication (MFA) Integration – Enhances security for high-risk activities.
+- Behavioral Analysis – Tracks spending habits to identify anomalies.
+- Customizable Fraud Rules – Allows banks to define specific fraud detection criteria.
+- Automated Alerts & Notifications – Notifies users and banks of potential fraud instantly.
+- Regulatory Compliance Support – Helps banks adhere to anti-fraud regulations.
+- Seamless API Integration – Easily integrates with existing banking systems.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
