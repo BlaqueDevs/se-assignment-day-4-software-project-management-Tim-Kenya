@@ -57,6 +57,17 @@ Importance of quality assurance
 - Builds trust & credibility 🔒
 - Reduces downtime & failures 🚀  
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+How Project Scope Contributes to Success:
+- Prevents scope creep by defining clear deliverables.
+- Improves budgeting & resource allocation by setting clear expectations.
+- Enhances team alignment by ensuring everyone knows project goals.
+
+Work Breakdown Structure (WBS) - A hierarchical breakdown of tasks into smaller, manageable units.
+
+Why is WBS Useful?
+- Improves task organization & accountability.
+- Helps estimate time & cost accurately.
+- Ensures no critical task is overlooked.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
